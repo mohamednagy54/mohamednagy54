@@ -4,7 +4,7 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://my-portfolio-new-roan.vercel.app/">
-  <img align="left" width="22px" src="https://e7.pngegg.com/pngimages/301/871/png-clipart-computer-icons-website-web-design-symmetry.png" />
+   <img align="left" alt="Portfolio" width="22px" src="https://cdn.simpleicons.org/googlechrome" />
 </a>
 <br />
 <br />
