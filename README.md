@@ -10,19 +10,17 @@
 
 ### 🚀 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-nagy-frontend-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:nagy14966@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourphonenumber" target="_blank">
+  <a href="https://wa.me/01229064632" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://yourdomain.com/Mohamed-Nagy-CV.pdf" target="_blank">
+  
+  <a href="https://drive.google.com/file/d/1LuT1aaFfphPMidtoZVBMqvHP4L8eekQQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
