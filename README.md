@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;React+%26+TypeScript+Enthusiast;Passionate+about+Clean+Code+%26+UI%2FUX;Building+Modern%2C+Scalable+Web+Apps;From+Egypt%2C+Coding+with+Purpose+🚀&center=true&width=600&height=45&color=00FF00&vCenter=true&size=20" />
   </a>
 </p>
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamednagy54&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednagy54" />
