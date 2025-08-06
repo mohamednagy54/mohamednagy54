@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer | React Enthusiast | Full Stack</h3>
 
-<hr style="border: 0.5px solid #ccc; width: 60%; margin: auto;" />
+<hr style="border: 0.2px solid #ccc; width: 60%; margin: auto;" />
 
 <p align="center">
   <a href="https://github.com/mohamednagy54">
