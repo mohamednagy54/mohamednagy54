@@ -1,4 +1,5 @@
 <h1 align="center">I'm Mohamed Nagy</h1>
+<hr style="border: 0.2px solid #ccc; width: 60%; margin: auto;" />
 
 <h3 align="center">Software Engineer | React Enthusiast | Full Stack</h3>
 
