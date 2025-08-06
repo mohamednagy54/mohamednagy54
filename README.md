@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mohamednagy54">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%26+TypeScript+Enthusiast;Passionate+about+Clean+Code+%26+UI%2FUX;Building+Modern%2C+Scalable+Web+Apps;From+Egypt%2C+Coding+with+Purpose+🚀&center=true&width=600&height=45&color=00FF00&vCenter=true&size=20" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;React+%26+TypeScript+Enthusiast;Passionate+about+Clean+Code+%26+UI%2FUX;Building+Modern%2C+Scalable+Web+Apps;From+Egypt%2C+Coding+with+Purpose+🚀&center=true&width=600&height=45&color=00FF00&vCenter=true&size=20" />
   </a>
 </p>
 
