@@ -64,21 +64,7 @@
 
 ###
 
-<div align="left">
- 
-  
- 
- 
-  <a href="mailto:nagy14966@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-nagy-frontend-developer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://drive.google.com/file/d/1LuT1aaFfphPMidtoZVBMqvHP4L8eekQQ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download+CV&logo=readme&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv download" />
-  </a>
-</div>
+
 
 ###
 
