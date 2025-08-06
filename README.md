@@ -40,7 +40,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
----
+
 
 ### 🛠️ Languages & Tools:
 <p align="left">
@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
 
----
+
 
 
 ### 📊 GitHub Stats:
