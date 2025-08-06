@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Mohamed Nagy and I'm a developer from Egypt</h2>
+<h1 align="center">I'm Mohamed Nagy</h1>
+
+<h3 align="center">Frontend Developer | React Enthusiast | Based in Egypt</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamednagy54&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednagy54" />
+</p>
+
+---
 
 ###
 
