@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohamednagy54&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednagy54" />
 </p>
 
----
+
 
 ### 🚀 Connect with Me:
 <p align="left">
@@ -32,7 +32,7 @@
   </a>
 </p>
 
----
+
 
 
 
@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednagy54&layout=compact&theme=dracula" height="180" />
 </p>
 
----
+
 
 
 ###
