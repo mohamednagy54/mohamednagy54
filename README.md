@@ -1,6 +1,8 @@
 <h1 align="center">I'm Mohamed Nagy</h1>
 
 <h3 align="center">Software Engineer | React Enthusiast | Full Stack</h3>
+---
+
 
 <p align="center">
   <a href="https://github.com/mohamednagy54">
