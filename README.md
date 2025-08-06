@@ -3,6 +3,12 @@
 <h3 align="center">Frontend Developer | React Enthusiast | Based in Egypt</h3>
 
 <p align="center">
+  <a href="https://github.com/mohamednagy54">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Enthusiast;Web+Developer+from+Egypt&center=true&width=440&height=45&color=00FF00&vCenter=true&size=20" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamednagy54&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednagy54" />
 </p>
 
